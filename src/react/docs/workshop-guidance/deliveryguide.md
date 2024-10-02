@@ -32,5 +32,5 @@ Recommendations for the customer stakeholders that should attend each of the pil
 
 |Identity|Devices|Data|
 |--|--|--|
-| • Identity and Access Management (IAM) team <br> • Security Operations team <br> • Devices/Endpoint team <br> • Enterprise Application Developers <br> • CISO (if possible) <br> • IT Director (if possible)| • MDM Admin (Architect, Ops) <br> • Security (Architect, Ops) <br> • Conditional Access Admin (Security, Identity, MDM) <br> • Governance and Risk <br> • CISO (if possible) <br> • IT Director (if possible) | Test |
+| • Identity and Access Management (IAM) team <br> • Security Operations team <br> • Devices/Endpoint team <br> • Enterprise Application Developers <br> • CISO (if possible) <br> • IT Director (if possible)| • MDM Admin (Architect, Ops) <br> • Security (Architect, Ops) <br> • Conditional Access Admin (Security, Identity, MDM) <br> • Governance and Risk <br> • CISO (if possible) <br> • IT Director (if possible) | • Information Protection architects and officers <br> • Compliance officers and administrators <br> • Data Platform administrators focused on data security (Exchange, SharePoint, etc.) <br> • CISO (if possible) <br> • IT Director or Lead Architect (if possible)|
 
