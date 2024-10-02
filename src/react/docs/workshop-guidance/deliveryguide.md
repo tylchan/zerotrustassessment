@@ -12,7 +12,7 @@ The purpose of this document is to provide delivery resources 
 ## Audience
 This document is for use by the delivery resource that plans on delivering the Zero Trust Pillar Workshops to customers.
 
-##Target Customer
+## Target Customer
 The ideal customer for this engagement: 
 1.	Understands and aligns to Microsoft Zero Trust security vision and strategic approach to their organization. The Zero Trust Fundamentals Assessment is a great prerequisite to drive this alignment prior to these pillar-focused workshops. 
 2.	Has intent and resources to invest in projects to deploy Microsoft Security products  
