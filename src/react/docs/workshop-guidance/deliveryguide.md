@@ -44,6 +44,9 @@ Recommendations for the customer stakeholders that should attend each of the pil
 |**Closeout <br> <br> Duration: 1 hour**| • Gather customer feedback about the workshop <br> • Identify additional pillar workshops to deliver | • Customer fills out feedback survey | • Workshop feedback survey is completed |
 
 ## Workshop Delivery Time Estimates
-
+Below are the estimated delivery times for each section of the pillar workshops:
+|Identity|Devices|Data|
+|---|---|---|
+| • Apps: 1.5 hours <br> • Users and Groups: 1 hour <br> • Devices: 0.5 hour <br> • Operations: 1 hour <br> **• Total: 4 hours** | • Windows: 1-4 hours <br> • Mobile Application Management (MAM): 15 - 45 minutes hour <br> • iOS and Android MDM: 0.5-1 hour <br> • Operations: 15 minutes <br> **• Total: 3-6 hours** | • Know and Protect You Data: 2 hours <br> • Manage Data Access: 1 hour <br> • Protect Critical Data Assets: 1 hour <br> **• Total: 4 hours**|
 
 
