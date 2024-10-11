@@ -1,4 +1,5 @@
 ## Overview
+This guide provides you with instructions on how to properly co-brand the Microsoft Zero Trust Workshop workbook.
 
 ## Updating Logos
 The Zero Trust Workshop Excel file provides a place for you to co-brand the workbook with your organization's logo. Replace the Contoso name and logo with your own on the "Home" tab. Ensure your logo has sufficient color contrast with the background. Be sure you follow any brand guidelines for minimum clear space or minimum size of your logo.
