@@ -5,7 +5,7 @@
 ## Accessibility
 Excel includes built-in resources to help you make sure your workbooks are accessible to all. Follow these additional guidelines to ensure the final workbook is accessible and does not disclose personal information.
 
-(Visit this Microsoft Support page to learn more about accessibility in Excel)[https://support.microsoft.com/en-us/office/accessibility-best-practices-with-excel-spreadsheets-6cc05fc5-1314-48b5-8eb3-683e49b3e593]
+Visit this Microsoft Support page to learn more about accessibility in Excel[https://support.microsoft.com/en-us/office/accessibility-best-practices-with-excel-spreadsheets-6cc05fc5-1314-48b5-8eb3-683e49b3e593]
 
 ### Privacy and Global Use Checklist
 - [ ] Ensure sufficient contrast between color combinations, especially text and backgrounds. Do not put patterns or images behind text."
