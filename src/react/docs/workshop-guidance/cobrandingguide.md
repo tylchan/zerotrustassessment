@@ -1,6 +1,17 @@
 ## Overview
 
 ## Updating Logos
+The Zero Trust Workshop Excel file provides a place for you to co-brand the workbook with your organization's logo. Replace the Contoso name and logo with your own on the "Home" tab. Ensure your logo has sufficient color contrast with the background. Be sure you follow any brand guidelines for minimum clear space or minimum size of your logo.
+
+Do not remove, replace, move, or alter the Microsoft logo in the workbook in any way.
+
+### To change your logo
+Select the Contoso logo and select **Picture Format** in the ribbon. Click **Change Picture > This Device** and select an image file of your logo. Use a PNG or SVG file whenever possible, as these file formats support transparency.
+
+![image](https://github.com/user-attachments/assets/8a2bb71e-6a45-4a10-8bca-6efe4f2db922)
+
+Click **Picture Format > Alt Text** in the ribbon and replace "Contoso" with your organization's name.
+
 
 ## Accessibility
 Excel includes built-in resources to help you make sure your workbooks are accessible to all. Follow these additional guidelines to ensure the final workbook is accessible and does not disclose personal information.
