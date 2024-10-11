@@ -11,6 +11,10 @@ Select the Contoso logo and select **Picture Format** in the ribbon. Click **Cha
 
 ![image](https://github.com/user-attachments/assets/8a2bb71e-6a45-4a10-8bca-6efe4f2db922)
 
+With your newly added logo selected, click **Picture Format > Picture Border** and select **No Outline**. This will remove the magenta border.
+
+![image](https://github.com/user-attachments/assets/e10ecfa9-88f4-4193-b888-975c12e1e47f)
+
 Click **Picture Format > Alt Text** in the ribbon and replace "Contoso" with your organization's name.
 
 
